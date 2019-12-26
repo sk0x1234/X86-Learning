@@ -3,4 +3,6 @@
 
 Using Yasm ,  Focusing on Intel syntax 
 
-Sometime good old ATT ,with GAS, inline Assembly
+Sometime good old ATT ,with GAS, inline Assembly 
+
+GDB is goto debugger.
